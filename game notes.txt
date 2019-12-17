@@ -1,0 +1,21 @@
+Our Fancy Game Notes:
+
+- Haunted House / Apartment Building
+- Top-down view
+	- can see current room your in
+	- doors take you to new rooms
+- cutscenes before boss fights
+- friendly and unfreindly ghosts
+	- friendly give you hints/clues
+	- unfreindly fight you or steal items from you
+- Multiple player options - each with special strengths/weaknesses
+- boss battles with ally help from other player options
+	- cannot accumulate players tho only 1
+	- randomly find one of other 3 player options 
+	- if ally loses health gets knocked out and if win fight then can revive them
+- loot dropped from bosses and around map
+- backpack and can carry only certain weight of items
+- map that lights up rooms visited
+- when entering boss room give warning
+- Story:
+	- 
